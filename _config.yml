@@ -21,7 +21,7 @@ repository               : "Jason923/Jason923.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Jason.png"
   name             : "LI, (Jason) Junxuan"
   pronouns         : # example: "he/his"  
   bio              : "Master's student"

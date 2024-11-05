@@ -176,7 +176,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  Critical Thinking:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _Critical Thinking
+  # _teaching
   - scope:
       path: ""
-      type: Critical Thinking
+      type: teaching
     values:
       layout: single
       author_profile: true

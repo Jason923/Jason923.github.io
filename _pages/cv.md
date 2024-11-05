@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * M.Ed., in Parent Education, The Chinese University of Hong Kong, Hong Kong SAR, 2025 (expected)
@@ -71,10 +72,6 @@ Academic Conferences
 ======
 * 2024 Chongqing Educational Evaluation International Conference (May. 2024)
 * The 10th National Conference on Critical Thinking and Innovation Education in Colleges and Universities (Jul. 2023)
-
-   <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Qualifications and Skills
 ======

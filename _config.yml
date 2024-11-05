@@ -183,9 +183,11 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
-
+  talk:
+    output: false
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:

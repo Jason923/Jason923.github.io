@@ -27,7 +27,7 @@ author:
   bio              : "Master's student"
   location         : "Hong Kong SAR, China"
   employer         : "The Chinese University of Hong Kong"
-  uri              : # URL
+  uri              : "https://www.cuhk.edu.hk/english/index.html"
   email            : "junxuanli@link.cuhk.edu.hk" 
 
   # Academic websites
@@ -37,7 +37,6 @@ author:
   researchgate     : "https://www.researchgate.net/profile/Junxuan-Li-9"
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   linkedin         : "https://www.linkedin.com/in/%E4%BF%8A%E7%92%87-%E6%9D%8E-795718327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
 
 # Publication Category - The following the list of publication categories and their headings

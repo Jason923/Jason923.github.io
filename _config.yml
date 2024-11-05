@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LI, (Jason) Junxuan"
+title                    : "Junxuan (Jason) Li"
 title_separator          : "-"
-name                     : &name "LI, (Jason) Junxuan"
+name                     : &name "Junxuan (Jason) Li"
 description              : &description "Master's student"
 url                      : https://Jason923.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,12 +22,11 @@ repository               : "Jason923/Jason923.github.io"
 author:
   # Biographic information
   avatar           : "Jason.png"
-  name             : "LI, (Jason) Junxuan"
-  pronouns         : # example: "he/his"  
+  name             : "Junxuan (Jason) Li"
+  pronouns         : "he/his"  
   bio              : "Master's student"
   location         : "Hong Kong SAR, China"
   employer         : "The Chinese University of Hong Kong"
-  uri              : "https://www.cuhk.edu.hk/english/index.html"
   email            : "junxuanli@link.cuhk.edu.hk" 
 
   # Academic websites

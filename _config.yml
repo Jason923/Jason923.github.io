@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _critical_thinking
   - scope:
       path: ""
-      type: teaching
+      type: critical_thinking
     values:
       layout: single
       author_profile: true

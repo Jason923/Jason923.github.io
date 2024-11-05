@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I used to do research relevant to comparative education, higher education policy, and critical thinking. But now I am more interested in the developmental psychology, and human development and family science.
+I used to do research relevant to comparative education, higher education policy, and critical thinking. But now, my interests have turned to the domain of developmental psychology, human development and family science.
 
 My research interests mainly focus on parenting (Chinese parenting practices, co-parenting), children's social-emotional development in the context of family (father's involvement), family relations (father-child relation), parentification, and critical thinking.
 

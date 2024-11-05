@@ -11,7 +11,7 @@ I used to do research relevant to comparative education, higher education policy
 
 My research interests mainly focus on parenting (Chinese parenting practices, co-parenting), children's social-emotional development in the context of family (father's involvement), family relations (father-child relation), parentification, and critical thinking.
 
-I took some psychology courses both in UG studie and PG studies that made me interested in psychology:
+I took some psychology courses both in UG and PG studies that made me interested in psychology:
 * **General Psychology** (UG Course, ZYK0220002)
 * **Educational Psychology** (UG Course, ZYK0220005)
 * **Psychology and Education of Children with Learning Disabilities** (UG Course, ZYK0220036)

@@ -22,10 +22,6 @@ Publications
 
 [3] Li, J., Battersby, M., & Bailin, S. (2021). Percy's problem: epistemology, understanding, and critical thinking. Critical and Creative Thinking Education Newsletter, 60(4), 3-9.
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Research experience
 ======
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
@@ -70,10 +66,6 @@ Professional Memberships
 ======
 * American Psychological Association (Aug. 2024 - present)
   * APA Graduate Student Membership (Division of Developmental Psychology & Society for Couple and Family Psychology)
-
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Academic Conferences
 ======

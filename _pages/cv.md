@@ -13,15 +13,15 @@ redirect_from:
 Education
 ======
 * M.Ed., in Parent Education, The Chinese University of Hong Kong, Hong Kong SAR, 2025 (expected)
-* B.Ed., in Education, Sichuan International Studies University, China, 2014
+* B.Ed., in Education, Sichuan International Studies University, China, 2024
 
 Publications
 ======
-[1] Wang, H., Li, J., & Tan, H. (2024). Why is “Kong Yi Ji Literature” controversial? --Applying Critical Thinking’s Method of Dual-level Analysis of Questions to analyze social hotspots. Critical and Creative Thinking Education Newsletter, 73(3), 16-20.
+* Wang, H., Li, J., & Tan, H. (2024). Why is “Kong Yi Ji Literature” controversial? --Applying Critical Thinking’s Method of Dual-level Analysis of Questions to analyze social hotspots. Critical and Creative Thinking Education Newsletter, 73(3), 16-20.
 
-[2] Li, J. (2024). Critical thinking in daily life — Some views on the typical problems of contemporary college students that are discussed in the critical thinking forum group. Critical and Creative Thinking Education Newsletter, 71(1), 41-43.
+* Li, J. (2024). Critical thinking in daily life — Some views on the typical problems of contemporary college students that are discussed in the critical thinking forum group. Critical and Creative Thinking Education Newsletter, 71(1), 41-43.
 
-[3] Li, J., Battersby, M., & Bailin, S. (2021). Percy's problem: epistemology, understanding, and critical thinking. Critical and Creative Thinking Education Newsletter, 60(4), 3-9.
+* Li, J., Battersby, M., & Bailin, S. (2021). Percy's problem: epistemology, understanding, and critical thinking. Critical and Creative Thinking Education Newsletter, 60(4), 3-9.
 
 Research experience
 ======

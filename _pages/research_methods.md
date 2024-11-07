@@ -14,3 +14,11 @@ For research methods courses, I took the following courses:
 * **Educational Statistics and Data Analysis** (UG Course)
 * **Quantitative Data Management and Analysis in Educational Research** (PG Course)
 * **Multi-dimensional and Multicausal Analysis in Educational Research** (PG Course, taught by Professor Kit Tai Hau)
+
+Apart from those courses, I also participated in the workshop [Statistical Methods for Research Students] organized by the Department of Statistics at the Chinese University of Hong Kong. This workshop contained some quantitative research knowledge and skills; please see the following.
+* **Linear Regression on SPSS**
+* **Introduction to ANOVA via SPSS**
+* **Factor Analysis and Structural Equation Modeling**
+* **Introduction to Neural Networks via SPSS**
+* **Survival Analysis**
+

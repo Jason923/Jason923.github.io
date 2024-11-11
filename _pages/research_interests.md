@@ -9,7 +9,7 @@ author_profile: true
 
 I used to do research relevant to comparative education, higher education policy, and critical thinking. But now, my interests have turned to the domain of developmental psychology, human development and family science.
 
-My research interests mainly focus on parenting (Chinese parenting practices, co-parenting), children's social-emotional development in the context of family (father's involvement), family relations (father-child relation), parentification, and critical thinking.
+My research interests mainly focus on parenting in two-child families who have siblings with a large age gap (Chinese parenting practices, co-parenting), children's social-emotional development in the context of family (siblings' and father's involvement), family relations (parent-child relation, siblings relation), parentification, and critical thinking.
 
 I took some psychology courses both in UG and PG studies that made me interested in psychology:
 * **General Psychology** (UG Course, ZYK0220002)

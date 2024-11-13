@@ -25,6 +25,6 @@ Apart from those courses, I also participated in the workshop [Statistical Metho
 Beside, I also took some online research methods courses:
 * **Qualitative Research Methods in Psychology** (Coursera, offered by APA)
 * **Methods for Quantitative Research in Psychology** (Coursera, offered by APA)
-* **Statistics in Psychologial Research** (Coursera, offered by APA)
+* **Statistics in Psychological Research** (Coursera, offered by APA)
 * **Structural Equation Model and its Applications** (Coursera, offered by CUHK)
 

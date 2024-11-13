@@ -23,3 +23,7 @@ I took some psychology courses both in UG and PG studies that made me interested
 * **Family-School-Community Collaboration: From Theory and Research to Practice** (PG Course, PEDU6704)
 * **Contemporary Issues in Students' Personal and Social Development** (PG Course, PEDU6502)
 * **Educating Students with Special Needs** (PG Course, PEDU6516)
+
+I also took some online courses that related to psychology:
+* **Introduction to Psychology** (Coursera, offered by Yale University)
+* **Understanding Child Development: From Synapse to Society** (Coursera, offered by Utrecht University)

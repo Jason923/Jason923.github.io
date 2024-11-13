@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Qualitative methods have been used in my previous projects and research. My ongoing project "Siblings with a Large Age Gap: The Issue of Parenting" uses a mixed methods approach, including both qualitative and quantitative components.
+My previous projects and research were mainly adopted with qualitative methods. My ongoing project, "Siblings with a Large Age Gap: The Issue of Parenting" uses a mixed methods approach, including both qualitative and quantitative components.
 
 For research methods courses, I took the following courses:
 * **Educational Research Methodology** (UG Course)
@@ -21,4 +21,10 @@ Apart from those courses, I also participated in the workshop [Statistical Metho
 * **Factor Analysis and Structural Equation Modeling**
 * **Introduction to Neural Networks via SPSS**
 * **Survival Analysis**
+
+Beside, I also took some online research methods courses:
+* **Qualitative Research Methods in Psychology** (Coursera, offered by APA)
+* **Methods for Quantitative Research in Psychology** (Coursera, offered by APA)
+* **Statistics in Psychologial Research** (Coursera, offered by APA)
+* **Structural Equation Model and its Applications** (Coursera, offered by CUHK)
 

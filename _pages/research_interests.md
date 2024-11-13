@@ -14,6 +14,8 @@ My research interests mainly focus on parenting in two-child families who have s
 I took some psychology courses both in UG and PG studies that made me interested in psychology:
 * **General Psychology** (UG Course, ZYK0220002)
 * **Educational Psychology** (UG Course, ZYK0220005)
+* **Mental Health Education** (UG Course, TSB0111007)
+* **Principles of Moral Education** （UG Course, ZYK0220010）
 * **Psychology and Education of Children with Learning Disabilities** (UG Course, ZYK0220036)
 * **The Psychology of Parenting** (PG Course, PEDU6705)
 * **Motivating the Academically Unmotivated** (PG Course, PEDU6506)

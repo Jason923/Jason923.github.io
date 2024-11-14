@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Junxuan (Jason) LI, I am currently a Master's student at the [Department of Educational Psychology](https://www.fed.cuhk.edu.hk/eps/index.html), [The Chinese Universtiy of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
+Hi there! Welcome to my personal website. My name is Junxuan (Jason) LI, I am currently a Master's student at the [Department of Educational Psychology](https://www.fed.cuhk.edu.hk/eps/index.html), [The Chinese Universtiy of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
 
 My research interests lie in the human development and family science. Specifically, I am particularly interested in parenting (especially two-child families who have siblings with a large age gap), children's social-emotional development, family relations, and parentification.
 Besides the above, I am also interested in the development of critical thinking in the context of family. Particularly, how parents can develop critical thinking sub-skills in their children at an early age. For details please see [here](https://jason923.github.io/Research%20Interests/).

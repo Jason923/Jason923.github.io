@@ -29,6 +29,10 @@ Research experience
   * The Chinese University of Hong Kong
   * Supervisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/WONGT.html)
 
+* Research Assistant (Jan.2025 - present)
+  * Relationships and Emotions in Adolescent Life Lab, Department of Educational Psychology, CUHK
+  * Lab Director: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/HAWK.html)
+  
 * Research Assistant (Sept. 2024 - present)
   * Child and Family Research Lab, Department of Educational Psychology, CUHK
   * Lab Director: [Prof. Florrie Fei-Yin Ng](https://www.fed.cuhk.edu.hk/eps/NG.html)

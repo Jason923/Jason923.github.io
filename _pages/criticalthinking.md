@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 I'm super proud to introduce some of my previous works in the domain of critical thinking, the most influential one is --「Critical Thinking Learners Alliance」, which was founded by me on May 24, 2021. We have an offical WeChat account that aims to disseminate content on critical thinking, including the latest research findings on critical thinking, the application of critical thinking in conjunction with other disciplines (e.g., STEM, Language, etc.) in basic education, the practice of critical thinking in teaching in universities and colleges, the analysis of social issues with critical thinking, and the integration of critical thinking in career and academic planning. In addition, we have collaborated with researchers in North America and China to conduct a variety of salon activities, such as reading sharing, seminars, and Q&A sessions, etc.
 
-And I'm so thrilled to announce that, so far, we have published 64 articles, gained more than 2,000 followers, and the total readership of articles is more than 30,000!
+And I'm so thrilled to announce that, so far (July, 2024), we have published 64 articles, gained more than 2,000 followers, and the total readership of articles is more than 30,000!
 You can scan this QR code via WeChat to see our WeChat account.
 
 ![image](https://github.com/user-attachments/assets/47a0a29d-42f7-486c-ab50-f8d4e669b5de)

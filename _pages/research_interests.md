@@ -7,11 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-I used to do research relevant to comparative education, higher education policy, and critical thinking. But now, my interests have turned to the domain of developmental psychology, human development and family science.
+My research interests focus on children and adolescents’ social and emotional development, mental health, and how some environmental factors, such as family dynamics, socialization practices, and culture, may shape their development and mental health.
 
-My research interests mainly focus on parenting in two-child families who have siblings with a large age gap (Chinese parenting practices, co-parenting), child & adolescent social-emotional development in the context of family (elder siblings' and father's involvement), family relations (father-child relations, siblings relations), parentification, and critical thinking.
-
-I took some psychology courses both in UG and PG studies that made me interested in psychology:
+I took some psychology courses both in UG and PG studies, which made me interested in psychology:
 * **General Psychology** (UG Course, ZYK0220002)
 * **Educational Psychology** (UG Course, ZYK0220005)
 * **Mental Health Education** (UG Course, TSB0111007)
@@ -24,6 +22,6 @@ I took some psychology courses both in UG and PG studies that made me interested
 * **Contemporary Issues in Students' Personal and Social Development** (PG Course, PEDU6502)
 * **Educating Students with Special Needs** (PG Course, PEDU6516)
 
-I also took some online courses that related to psychology:
+I also took some online courses related to psychology:
 * **Introduction to Psychology** (Coursera, offered by Yale University)
 * **Understanding Child Development: From Synapse to Society** (Coursera, offered by Utrecht University)

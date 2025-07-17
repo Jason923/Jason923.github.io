@@ -9,9 +9,9 @@ author_profile: true
 
 I conducted research with both quantitative methods (mainly) and qualitative methods. My ongoing project, "Siblings with a Large Age Gap: The Issue of Parenting" uses a mixed methods approach, including both qualitative (semi-structured interview and thematic analysis) and quantitative components (survey).
 
-For quantitative methods, I can use SPSS (proficient), Mplus (proficient), R (not so proficient, still learning), and Stata (not so proficient, still learning) to conduct basic data analysis (e.g., correlation, regression, t-test, ANOVA, etc.) and advanced statistical modeling (e.g., multivariate analysis, structural equation modeling, etc.). Currently, I'm learning how to conduct longitudinal data analysis (e.g., cross-lagged panel model, etc.) and Bayesian SEM.
+For quantitative methods, I can use SPSS (proficient), Mplus (proficient), R (intermediate), and Stata (intermediate) to conduct basic data analysis (e.g., descriptive correlation, t-test, ANOVA, etc.), intermediate analyses (e.g., general linear model, multiple regression, CFA, mediation and moderation models), and advanced statistical modeling (e.g., path analysis, structural equation modeling, latent growth model, latent profile analysis, latent transition analysis, cross-lagged panel model, etc.). Currently, I'm learning how to conduct other advanced statistical models (e.g., Bayesian SEM, dynamic SEM). Besides, I am also capable of some physiological data analysis (e.g., ECG data).
 
-For qualitative methods, I am proficient in using NVivo. I can conduct interviews, observations, thematic analysis, and grounded theory.
+For qualitative methods, I am proficient in using NVivo. I can conduct interviews, observations, thematic analysis, and typological analysis.
 
 I completed a series of research methods courses:
 * **Educational Research Methodology** (UG Course)

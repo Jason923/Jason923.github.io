@@ -13,6 +13,7 @@ The Education University of Hong Kong,
 10 Lo Ping Road, Tai Po,
 New Territories, Hong Kong <br>
 
+* Office Phone: (852) 2948-8550
 * Email (working account): jasonli@eduhk.hk
 * Email (personal account): jxli.jason@gmail.com
 

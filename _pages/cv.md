@@ -40,7 +40,7 @@ Research experience
 * Full-Time Research Assistant (Sept. 2025 - Aug. 2026)
   * Department of Psychology, The Educationa University of Hong Kong
   * Advisor: [Prof. Kevin Ka Shing Chan](https://www.eduhk.hk/en/experts/professor-chan-ka-shing-kevin)
-  * Research Topics: social-emotional development, mental health, family therapy, intervention, autistic children, etc.
+  * Research Topics: social-emotional development, mental health, psychotherapeutic, intervention, autistic children, etc.
 
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
   * The Chinese University of Hong Kong

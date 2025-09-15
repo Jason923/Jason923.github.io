@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.Ed., in Parent Education, The Chinese University of Hong Kong, Hong Kong SAR, 2025 (expected)
-* B.Ed., in Education, Sichuan International Studies University, China, 2024
+* M.Ed., in Parent Education, Department of Educational Psychology, The Chinese University of Hong Kong, Hong Kong SAR, Oct. 2025
+* B.Ed., in Education, Sichuan International Studies University, Faculty of Education, Chongqing, China, Jun. 2024
 
 Publications
 ======

@@ -26,8 +26,8 @@ Publications
 Manuscripts
 ======
 * **Li, J. J.**, Wong, T. K., Si, J. (2025) Investigating family dynamics and first-born parenting in Chinese two-child families with large sibling age gaps: A mixed-methods study (In preparation)
-* Si, J., **Li, J. J.**, & Zhang, Y., (2025) Using library services to support university governance in Sub-Saharan Africa. (Submitted to African Journal of Library Archives and Information Science, JIF: Q3, under review)
-* Si, J., **Li, J. J.**, & Zhang, Y., (2025) The guiding role of local governance in performance funding and its impact on universities in Western China: A comparison of policy implementation and outcomes. (Submitted to Higher Education, JIF: Q1, under review)
+* Si, J., **Li, J. J.**, & Zhang, Y., (2025) Using library services to support university governance in Sub-Saharan Africa. (Submitted to _African Journal of Library Archives and Information Science_, JIF: Q3, under review)
+* Si, J., **Li, J. J.**, & Zhang, Y., (2025) The guiding role of local governance in performance funding and its impact on universities in Western China: A comparison of policy implementation and outcomes. (Submitted to _Higher Education_, JIF: Q1, under review)
 
 Conference Presentations
 ======

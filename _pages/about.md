@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my personal website. My name is Junxuan (Jason) LI, I am currently a Master's student at the [Department of Educational Psychology](https://www.fed.cuhk.edu.hk/eps/index.html), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
+Hi there! Welcome to my personal website. My name is Junxuan (Jason) LI, I am currently a full-time research assistant at the [Department of Psychology](https://www.eduhk.hk/ps/en/), [The Education University of Hong Kong](https://www.eduhk.hk/en/).
 
 My research interests lie in developmental psychology and human development & family science. Specifically, I am particularly interested in parenting, child & adolescent social emotional development, mental health. Specifically, I am particularly interested in how environmental factors, such as family dynamics, culture, socialization practices, may shape their development and mental health. For details about my research interests please see [here](https://jason923.github.io/Research%20Interests/).
 

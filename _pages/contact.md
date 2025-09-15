@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Corresponding Address: Room 26, 2/F., Block D1,
+**Corresponding Address:** Room 26, 2/F., Block D1,
 Department of Psychology,
 The Education University of Hong Kong,
 10 Lo Ping Road, Tai Po,

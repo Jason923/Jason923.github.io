@@ -25,17 +25,21 @@ Publications
 
 Research experience
 ======
+* Research Assistant (Sept. 2025 - Aug. 2026)
+  * Department of Psychology, The Educationa University of Hong Kong
+  * Advisor: [Prof. Kevin Ka Shing Chan](https://www.eduhk.hk/en/experts/professor-chan-ka-shing-kevin)
+
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
   * The Chinese University of Hong Kong
-  * Supervisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/WONGT.html)
+  * Supervisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
 
 * Research Assistant (Jan.2025 - present)
   * Relationships and Emotions in Adolescent Life Lab, Department of Educational Psychology, CUHK
-  * Lab Director: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/HAWK.html)
+  * Lab Director: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
   
 * Research Assistant (Sept. 2024 - present)
   * Child and Family Research Lab, Department of Educational Psychology, CUHK
-  * Lab Director: [Prof. Florrie Fei-Yin Ng](https://www.fed.cuhk.edu.hk/eps/NG.html)
+  * Lab Director: [Prof. Florrie Fei-Yin Ng](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-ng-fei-yin-florrie/)
 
 * Bachelor’s Thesis: A Study on the Talent-Cultivation Pattern of the GHE Program at the University of Wisconsin-Madison (Dec. 2023 - May. 2024)
   * Sichuan International Studies University

@@ -25,15 +25,15 @@ Publications
 
 Manuscripts
 ======
-**Li, J. J.**, Wong, T. K., Si, J. (2025) Investigating family dynamics and first-born parenting in Chinese two-child families with large sibling age gaps: A mixed-methods study (In preparation)
-Si, J., **Li, J. J.**, & Zhang, Y., (2025) Using library services to support university governance in Sub-Saharan Africa. (Submitted to African Journal of Library Archives and Information Science, JIF: Q3, under review)
-Si, J., **Li, J. J.**, & Zhang, Y., (2025) The guiding role of local governance in performance funding and its impact on universities in Western China: A comparison of policy implementation and outcomes. (Submitted to Higher Education, JIF: Q1, under review)
+* **Li, J. J.**, Wong, T. K., Si, J. (2025) Investigating family dynamics and first-born parenting in Chinese two-child families with large sibling age gaps: A mixed-methods study (In preparation)
+* Si, J., **Li, J. J.**, & Zhang, Y., (2025) Using library services to support university governance in Sub-Saharan Africa. (Submitted to African Journal of Library Archives and Information Science, JIF: Q3, under review)
+* Si, J., **Li, J. J.**, & Zhang, Y., (2025) The guiding role of local governance in performance funding and its impact on universities in Western China: A comparison of policy implementation and outcomes. (Submitted to Higher Education, JIF: Q1, under review)
 
 Conference Presentations
 ======
-**Li, J. J.**, Wong, T. K., Si, J. (2026, April) Navigating parenting dynamics in Chinese two-child families with large sibling age gaps: A qualitative study (Poster submitted to the 28th Biennial Meeting of the International Society for the Study of Behavioural Development, Incheon, Korea.)
-**Li, J. J.**, Wong, T. K. (2026, April) The impact of Chinese indigenous parenting on second-borns’ development: A comparison of mothers and firstborn (Poster submitted to the 28th Biennial Meeting of the International Society for the Study of Behavioural Development, Incheon, Korea.)
-Hawk, S. T., Smetana, J., Stephens, J., Stuart, J., **Li, J. J.** (2026, April) The good, the bad, and the generated: Students’ ethical reasoning about AI use in schoolwork. (Poster presented at the biennial meeting of the Society for Research on Adolescence, Toronto, Canada.)
+* **Li, J. J.**, Wong, T. K., Si, J. (2026, April) Navigating parenting dynamics in Chinese two-child families with large sibling age gaps: A qualitative study (Poster submitted to the 28th Biennial Meeting of the International Society for the Study of Behavioural Development, Incheon, Korea.)
+* **Li, J. J.**, Wong, T. K. (2026, April) The impact of Chinese indigenous parenting on second-borns’ development: A comparison of mothers and firstborn (Poster submitted to the 28th Biennial Meeting of the International Society for the Study of Behavioural Development, Incheon, Korea.)
+* Hawk, S. T., Smetana, J., Stephens, J., Stuart, J., **Li, J. J.** (2026, April) The good, the bad, and the generated: Students’ ethical reasoning about AI use in schoolwork. (Poster presented at the biennial meeting of the Society for Research on Adolescence, Toronto, Canada.)
 
 Research experience
 ======

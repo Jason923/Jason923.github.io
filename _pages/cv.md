@@ -46,7 +46,7 @@ Research experience
   * Supervisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
 
 * Part-Time Research Assistant (Jan.2025 - present)
-  * Relationships and Emotions in Adolescent Life Lab, Department of Educational Psychology, CUHK
+  * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
   * Lab Director: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
   
 * Student Helper Research Assistant (Sept. 2024 - present)

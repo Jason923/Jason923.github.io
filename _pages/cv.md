@@ -17,7 +17,7 @@ Education
 
 Publications
 ======
-* Wang, H., **Li, J.**, & Tan, H. (2024). Why is “Kong Yi Ji Literature” controversial? --Applying Critical Thinking’s Method of Dual-level Analysis of Questions to analyze social hotspots. *Critical and Creative Thinking Education Newsletter*, 73(3), 16-20.
+* Wang, H., **Li, J.**, & Tan, H. (2024). Why is “Kong Yi Ji Literature” controversial? --Applying critical thinking’s method of dual-level analysis of questions to analyze social hotspots. *Critical and Creative Thinking Education Newsletter*, 73(3), 16-20.
 
 * **Li, J.** (2024). Critical thinking in daily life — Some views on the typical problems of contemporary college students that are discussed in the critical thinking forum group. *Critical and Creative Thinking Education Newsletter*, 71(1), 41-43.
 

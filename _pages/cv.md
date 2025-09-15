@@ -25,7 +25,7 @@ Publications
 
 Manuscripts
 ======
-* **Li, J. J.**, Wong, T. K., Si, J. (2025) Investigating family dynamics and first-born parenting in Chinese two-child families with large sibling age gaps: A mixed-methods study (In preparation)
+* **Li, J. J.**, Wong, T. K., Si, J. (2025) Investigating family dynamics and first-born parenting in Chinese two-child families with large sibling age gaps: A mixed-methods study (In preparation, planned to submit to _Family Process_)
 * Si, J., **Li, J. J.**, & Zhang, Y., (2025) Using library services to support university governance in Sub-Saharan Africa. (Submitted to _African Journal of Library Archives and Information Science_, JIF: Q3, under review)
 * Si, J., **Li, J. J.**, & Zhang, Y., (2025) The guiding role of local governance in performance funding and its impact on universities in Western China: A comparison of policy implementation and outcomes. (Submitted to _Higher Education_, JIF: Q1, under review)
 
@@ -88,11 +88,6 @@ Professional Memberships
 * American Psychological Association (Aug. 2024 - present)
   * APA Graduate Student Membership (Division of Developmental Psychology & Society for Couple and Family Psychology)
   
-Academic Conferences
-======
-* 2024 Chongqing Educational Evaluation International Conference (May. 2024)
-* The 10th National Conference on Critical Thinking and Innovation Education in Colleges and Universities (Jul. 2023)
-  
 Qualifications and Skills
 ======
 * Qualification Certificates:
@@ -107,4 +102,8 @@ Qualifications and Skills
 * Computing Skills
   * SPSS
   * Office
-  * Adobe  
+  * Adobe
+  * Mplus
+  * RStudio
+  * NVivo
+  * Stata

@@ -39,48 +39,48 @@ Research experience
 ======
 * Full-Time Research Assistant (Sept. 2025 - Aug. 2026)
   * Department of Psychology, The Educationa University of Hong Kong
-  * Advisor: [Prof. Kevin Ka Shing Chan](https://www.eduhk.hk/en/experts/professor-chan-ka-shing-kevin)
-  * Project Tittle: The Impact of Chinese Virtues on Social-Emotional and Academic Development among Hong Kong Students.
-  * Research Topics: social-emotional development, mental health, psychotherapeutic intervention, autistic children, etc.
+  * _Advisor:_ [Prof. Kevin Ka Shing Chan](https://www.eduhk.hk/en/experts/professor-chan-ka-shing-kevin)
+  * _Project Tittle:_ The Impact of Chinese Virtues on Social-Emotional and Academic Development among Hong Kong Students.
+  * _Research Topics:_ Social-Emotional Development, Mental Health, Psychotherapeutic Intervention, Autistic Children, etc.
 
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
   * The Chinese University of Hong Kong
-  * Advisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
-  * Research Topics: parenting, family dynamic, siblings, social-emotional development, family relations, etc.
+  * _Advisor:_ [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
+  * _Research Topics:_ Parenting, Family Dynamic, Siblings, Social-Emotional Development, Family Relations, etc.
 
 * Part-Time Research Assistant (Nov.2025 - Feb. 2026)
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
-  * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
-  * Project Tittle: A Multi-Methods Investigation into the Ethical Use of AI in Schoolwork: Perpectives from Teachers and Students.
-  * Research Topics: adolescent development, moral development, cyberpsychology, artifical intelligence, cross-cultural psychology, etc.
+  * _Advisor:_ [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
+  * _Project Tittle:_ A Multi-Methods Investigation into the Ethical Use of AI in Schoolwork: Perpectives from Teachers and Students.
+  * _Research Topics:_ Adolescent Development, Moral Development, Cyberpsychology, Artifical Intelligence, Cross-Cultural Psychology, etc.
 
 * Volunteer Research Assistant (Jan. 2025 - Sept. 2025)
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
-  * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
-  * Project Tittle: Balancing Bytes and Morals: Exploring the Ethical Boundaries of AI Use in Schoolwork
-  * Research Topics: moral development, artifical intelligence, adolescent development, etc.
+  * _Advisor:_ [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
+  * _Project Tittle:_ Balancing Bytes and Morals: Exploring the Ethical Boundaries of AI Use in Schoolwork
+  * _Research Topics:_ Moral Development, Artifical Intelligence, Adolescent Development, etc.
 
   
 * Student Helper Research Assistant (Sept. 2024 - present)
   * Child and Family Research Lab, Department of Educational Psychology, CUHK
-  * Lab Director: [Prof. Florrie Fei-Yin Ng](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-ng-fei-yin-florrie/)
-  * Research Topics: parenting, parent-child interaction, nureoscience of parenting, fNIRs, hyperscanning, etc.
+  * _Lab Director:_ [Prof. Florrie Fei-Yin Ng](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-ng-fei-yin-florrie/)
+  * _Research Topics:_ Parenting, Parent-Child Interaction, Nureoscience of Parenting, fNIRs, Hyperscanning, etc.
 
 * Bachelor’s Thesis: A Study on the Talent-Cultivation Pattern of the GHE Program at the University of Wisconsin-Madison (Dec. 2023 - May. 2024)
   * Sichuan International Studies University
-  * Supervisor: [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
+  * _Advisor:_ [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
 
 * Learning Community Project: A Study on the Interdisciplinary Application of Critical Thinking in the Field of Elementary Education (Dec. 2021 - Nov. 2022)
   * Sichuan International Studies University
-  * Advisor: [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
+  * _Advisor:_ [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
 
 * Critical Thinking Foreign Academic Literature Translation Project (Jan. 2021 - Jun. 2021)
   * Sichuan International Studies University
-  * Advisor: [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
+  * _Advisor:_ [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
 
 * Learning Community Project: A Learning Community for Critical Thinking Enhancement. (Dec. 2020 - Nov. 2021)
   * Sichuan International Studies University
-  * Advisor: [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
+  * _Advisor:_ [Prof. Yan Wu](https://jyxy.sisu.edu.cn/szdw/sddw/gdjyx/229010c5b99d4f3aa4cc8887614bcc12.htm)
   
 Professional Experiences
 ======

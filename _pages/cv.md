@@ -40,6 +40,7 @@ Research experience
 * Full-Time Research Assistant (Sept. 2025 - Aug. 2026)
   * Department of Psychology, The Educationa University of Hong Kong
   * Advisor: [Prof. Kevin Ka Shing Chan](https://www.eduhk.hk/en/experts/professor-chan-ka-shing-kevin)
+  * Project Tittle: The Impact of Chinese Virtues on Social-Emotional and Academic Development among Hong Kong Students.
   * Research Topics: social-emotional development, mental health, psychotherapeutic intervention, autistic children, etc.
 
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
@@ -50,6 +51,7 @@ Research experience
 * Part-Time Research Assistant (Nov.2025 - Feb. 2026)
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
   * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
+  * Project Tittle: A Multi-Methods Investigation into the Ethical Use of AI in Schoolwork: Perpectives from Teachers and Students.
   * Research Topics: adolescent development, moral development, cyberpsychology, artifical intelligence, cross-cultural psychology, etc.
 
 * Volunteer Research Assistant (Jan. 2025 - Sept. 2025)

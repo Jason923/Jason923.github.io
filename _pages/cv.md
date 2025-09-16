@@ -47,10 +47,17 @@ Research experience
   * Advisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
   * Research Topics: parenting, family dynamic, siblings, social-emotional development, family relations, etc.
 
-* Part-Time Research Assistant (Jan.2025 - present)
+* Part-Time Research Assistant (Nov.2025 - Feb. 2026)
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
   * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
-  * Research Topics: adolescent development, moral development, cyberpsychology, artifical intelligence, etc.
+  * Research Topics: adolescent development, moral development, cyberpsychology, artifical intelligence, cross-cultural psychology, etc.
+
+* Volunteer Research Assistant (Jan. 2025 - Sept. 2025)
+  * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
+  * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
+  * Project Tittle: Balancing Bytes and Morals: Exploring the Ethical Boundaries of AI Use in Schoolwork
+  * Research Topics: moral development, artifical intelligence, adolescent development, etc.
+
   
 * Student Helper Research Assistant (Sept. 2024 - present)
   * Child and Family Research Lab, Department of Educational Psychology, CUHK

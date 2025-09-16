@@ -13,6 +13,9 @@ Besides, I am an accredited Senior High School English teacher in China as well,
 
 Apart from teaching English, I am also a study abroad counselor and own a small studio. My role is to help students find the right program and help them get admission offers. Until now, I have helped more than ten students get more than 40 admission offers from the world's most prestigious universities! Below is a list of universities my students and I have received admission offers from.
 * University of Michigan, Ann Arbor, USA
+* Columbia University, USA
+* Gegorgetown University, USA
+* Duke University, USA
 * University of Pennsylvania, USA
 * University of Wisconsin - Madision, USA
 * University College London, UK
@@ -37,7 +40,7 @@ Apart from teaching English, I am also a study abroad counselor and own a small 
 * The Chinese University of Hong Kong, HK SAR
 * City University of Hong Kong, HK SAR
 * Hong Kong Bapist University, HK SAR
-* Education University of Hong Kong, HK SAR
+* The Education University of Hong Kong, HK SAR
 * National Institute of Education, Nanyang Technological University, SG
 * Macau University of Science and Techonology, MO SAR
 * Wageningen University & Research, NL

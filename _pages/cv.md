@@ -58,7 +58,7 @@ Research experience
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
   * _Advisor:_ [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
   * _Project Tittle:_ Balancing Bytes and Morals: Exploring the Ethical Boundaries of AI Use in Schoolwork
-  * _Research Topics:_ Moral Development, Artifical Intelligence, Adolescent Development, etc.
+  * _Research Topics:_ Moral Development, Artificial Intelligence, Adolescent Development, etc.
 
   
 * Student Helper Research Assistant (Sept. 2024 - present)

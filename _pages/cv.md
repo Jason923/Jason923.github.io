@@ -44,12 +44,12 @@ Research experience
 
 * Master’s Research Project: Siblings with A Large Age Gap: The Issue of Parenting (Sept. 2024 - Aug. 2025)
   * The Chinese University of Hong Kong
-  * Supervisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
+  * Advisor: [Prof. Tracy K. Y. Wong](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-wong-tracy-ka-yee/)
   * Research Topics: parenting, family dynamic, siblings, social-emotional development, family relations, etc.
 
 * Part-Time Research Assistant (Jan.2025 - present)
   * [Relationships and Emotions in Adolescent Life Lab](https://www.realifelab.com/), Department of Educational Psychology, CUHK
-  * Lab Director: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
+  * Advisor: [Prof. Skyler Hawk](https://www.fed.cuhk.edu.hk/eps/en/peoples/prof-hawk-skyler/)
   * Research Topics: adolescent development, moral development, cyberpsychology, artifical intelligence, etc.
   
 * Student Helper Research Assistant (Sept. 2024 - present)
